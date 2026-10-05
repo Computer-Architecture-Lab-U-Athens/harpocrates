@@ -1,0 +1,4 @@
+build/
+harprun
+*.o
+/harprun-*.json
